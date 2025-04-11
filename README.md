@@ -62,3 +62,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Joel Anarba - [GitHub Profile](https://github.com/joelanarba)
 
 Project Link: [Modal Window](https://github.com/joelanarba/modal-window)
+
+## Acknowledgments
+
+This project was built by following along with the Ultimate JavaScript course by Jonas Schmedtmann.
+It helped me understand core concepts like DOM manipulation, event listeners, and UI behavior in JavaScript.
